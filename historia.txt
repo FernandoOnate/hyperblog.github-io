@@ -1,2 +1,3 @@
 soy fernando y tengo 23 años
 este es una archivo de prueba para git del curso de platzi
+TIENE CLASES A LAS 3 DE LA TARDE Y TIENE TAREAS PENDIENTES
