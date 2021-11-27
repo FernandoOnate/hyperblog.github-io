@@ -1,2 +1,2 @@
 soy fernando y tengo 23 años
-este es una archivo de prueba para git
+este es una archivo de prueba para git del curso de platzi
