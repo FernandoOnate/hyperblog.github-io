@@ -42,3 +42,10 @@ body{
 .txt{
     margin: auto 0.5em;
 }
+.footer{
+    background-color: #eeaeae;
+    padding: 0.1em;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+}
