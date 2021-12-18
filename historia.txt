@@ -3,3 +3,5 @@ Este es una archivo de prueba para git del curso de platzi
 Ya no tiene clases a ninguna hora y ya no tienen tareas pendientes
 tambien tiene una socializacion a esa hora y no sabe a cual asistir primero
 este es un documento de su vida y su carrera e ingenieria.
+Y ahora voy a hacer commit desde otra cuenta en github para simular a otro desarrollador
+
