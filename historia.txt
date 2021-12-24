@@ -5,7 +5,3 @@ tambien tiene una socializacion a esa hora y no sabe a cual asistir primero
 este es un documento de su vida y su carrera e ingenieria.
 Y ahora voy a hacer commit desde otra cuenta en github para simular a otro desarrollador
 pero esta vez si que es en serio.
-
-main 2
-
-main 1
