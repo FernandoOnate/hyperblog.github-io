@@ -1,3 +1,7 @@
+main 1
+
+
+
 Soy fernando y tengo 23 años.
 Este es una archivo de prueba para git del curso de platzi
 Ya no tiene clases a ninguna hora y ya no tienen tareas pendientes
