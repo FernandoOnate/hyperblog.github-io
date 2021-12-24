@@ -1,6 +1,6 @@
 main 1
 
-
+main 2
 
 Soy fernando y tengo 23 años.
 Este es una archivo de prueba para git del curso de platzi
