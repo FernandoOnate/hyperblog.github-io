@@ -1,1 +1,1 @@
-# Repositorio de prueba para el curso de Git y GitHub de Platzi
+# Repositorio para el curso de Git y GitHub de Platzi
